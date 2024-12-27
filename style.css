@@ -26,6 +26,7 @@ body {
 .option div div:hover {
   background-color: rgb(68 189 184);
   color: white;
+  cursor: pointer;
 }
 
 .base-timer {
